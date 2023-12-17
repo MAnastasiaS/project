@@ -10,4 +10,6 @@
 
 ***Установка и запуск***
 1. Клонируйте этот репозиторий на свой компьютер с помощью Git:
- https://github.com/MAnastasiaS/project.git
+   ''''https://github.com/MAnastasiaS/project.git''''
+2. Отройте проект в VisualStudioCode.
+3. Соберите и запустите сайт.
